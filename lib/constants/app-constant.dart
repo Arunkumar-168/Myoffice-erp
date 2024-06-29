@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-String BaseURL = "http://erp.in.net/billing/Api/";
+String BaseURL = "http:///";
 
 const kBackgroundColor = Color(0xFFF5F9FA);
 const kDarkButtonBg = Color(0xFF273546);
