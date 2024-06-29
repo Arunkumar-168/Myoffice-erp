@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-const String BaseURL = 'https://osjglobaltest.graspsoftwaresolutions.xyz/Api/';
-const String URL = 'https://osjglobaltest.graspsoftwaresolutions.xyz/';
-const String ImageURL = 'https://osjglobaltest.graspsoftwaresolutions.xyz/uploads/thumbnails/category_thumbnails/';
+const String BaseURL = 'https:///Api/';
+const String URL = 'https://';
+const String ImageURL = 'https:///uploads/thumbnails/category_thumbnails/';
 
 const kBackgroundColor = Color(0xFFF5F9FA);
 const kDarkButtonBg = Color(0xFF273546);
