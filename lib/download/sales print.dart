@@ -82,7 +82,7 @@ class _PrintPageState extends State<PrintPage> {
       if (baseURL.isEmpty) {
         throw Exception('Base URL is not set');
       }
-      var fullUrl = '$baseURL/Api/bill/1';
+      var fullUrl = '$baseURL/';
       final response = await http.get(Uri.parse(fullUrl));
       if (response.statusCode == 200) {
         final dynamic jsonData = json.decode(response.body);
